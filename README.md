@@ -1,2 +1,2 @@
 # ML readme 
-just some coding record for studing in course, Machine Learnign in NCTU
+just some coding record for studing in course, Machine Learning in NCTU
